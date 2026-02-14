@@ -1,0 +1,5 @@
+{
+  "name": "Firebase Realtime Monitor",
+  "description": "A high-performance real-time dashboard that synchronizes with Firebase Realtime Database and uses Gemini AI to provide intelligent insights on the live data stream.",
+  "requestFramePermissions": []
+}
